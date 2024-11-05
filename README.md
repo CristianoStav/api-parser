@@ -23,7 +23,7 @@ Após a base de dados ser populada, a API oferece endpoints para realizar consul
 - Clone o repositório
 
 ```sh
-$ git clone https://github.com/CriszuStav/Codesh-Challenge.git
+$ git clone https://github.com/CristianoStav/api-parser.git
 ```
 
 - Instale as dependências:
